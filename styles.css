@@ -1,0 +1,41 @@
+/* CSS Document */
+
+
+img {
+	height: 40%;
+	width: 20%;
+
+
+	
+}
+#kayla {
+	
+	border-radius:100%;
+}
+
+body {
+	background-color: #9FC088;
+	
+text-align:center;
+}
+
+.Left {
+	
+	text-align: left;
+	border-radius: 20px;
+	margin: 80px;
+	
+}
+
+#pictures {
+	border-radius: 20px;
+}
+.Center {
+	
+	text-align:right;
+}
+
+h1 {
+	
+	color: white;
+}
